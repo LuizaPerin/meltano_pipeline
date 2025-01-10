@@ -35,6 +35,7 @@ plugins:
     - 'person-password.*'
     - 'person-person.*'
     - 'person-personphone.*'
+    - 'person-stateprovince.*'
     - 'person-phonenumbertype.*'
     - 'production-billofmaterials.*'
     - 'production-culture.*'
